@@ -1,0 +1,10 @@
+.mainbox{
+    border: 5px solid #ebebeb;
+    width: 610px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    margin: 10px;
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0, 1);
+}
