@@ -22,7 +22,6 @@ function insta() {
 }
 
 function insta() {
-  clearInterval(typing);
   content = "loading...";
   if ((text.textContent = "loading...")) {
     index = 22;
@@ -31,7 +30,6 @@ function insta() {
 }
 
 function github() {
-  clearInterval(typing);
   content = "loading...";
   if ((text.textContent = "loading...")) {
     index = 22;
@@ -40,7 +38,6 @@ function github() {
 }
 
 function out() {
-  clearInterval(typing);
   content = "loading...";
   if ((text.textContent = "loading...")) {
     index = 22;
